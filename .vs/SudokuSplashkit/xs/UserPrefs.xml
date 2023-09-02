@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2715F688-1217-48EC-9BC9-0D0AFDD42AC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Button.cs">
+    <Files>
+      <File FileName="Button.cs" Line="17" Column="24" />
+      <File FileName="TableBuilder.cs" />
+      <File FileName="BlockCell.cs" />
+      <File FileName="lib/SplashKit.cs" />
+      <File FileName="Client.cs" />
+      <File FileName="ClickPrev.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SudokuSplashkit" expanded="True">
+            <Node name="SudokuSplashkit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SudokuSplashkit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

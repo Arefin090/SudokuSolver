@@ -1,0 +1,56 @@
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit.deps.json
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.json
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.dev.json
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/Projects/MyCustom/bin/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.AssemblyReference.cache
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfoInputs.cache
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfo.cs
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.CoreCompileInputs.cache
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/Projects/MyCustom/obj/Debug/netcoreapp3.1/SudokuSplashkit.genruntimeconfig.cache
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.deps.json
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.json
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.dev.json
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.AssemblyReference.cache
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfoInputs.cache
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfo.cs
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.CoreCompileInputs.cache
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.genruntimeconfig.cache
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.deps.json
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.json
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.dev.json
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.AssemblyReference.cache
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfoInputs.cache
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfo.cs
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.CoreCompileInputs.cache
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/OOP/Projects/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.genruntimeconfig.cache
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.deps.json
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.json
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.runtimeconfig.dev.json
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/bin/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.AssemblyReference.cache
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfoInputs.cache
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.AssemblyInfo.cs
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.csproj.CoreCompileInputs.cache
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.dll
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.pdb
+/Users/arefinn.sojol/OOP/Tasks/MyCustom copy/obj/Debug/netcoreapp3.1/SudokuSplashkit.genruntimeconfig.cache
